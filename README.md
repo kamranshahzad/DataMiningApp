@@ -18,4 +18,6 @@ Mark Wrong:  This will mark degree as wrong.
 * Ration percentage limit groups 
 * Master table managements
 
+##### Screenshot
+
 ![alt text](https://github.com/kamranshahzad/DataMiningApp/blob/master/screenshot-2.jpg "Screenshot")
